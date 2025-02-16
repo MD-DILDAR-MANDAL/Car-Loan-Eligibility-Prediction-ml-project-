@@ -1,1 +1,0 @@
-# Car Loan Eligibility Prediction
